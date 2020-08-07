@@ -7,7 +7,7 @@
   - _Adicionar typescript_ -> `npm install typescript -D || npm install ts-node-dev -D`
   - _Adicionar knex_ -> `npm install knex sqlite3`
   - _Adicionar express_ -> `npm install express`
-  - _server start -> `npm start run`
+  - _server start_ -> `npm start run`
   - _knex start_ -> `npm run knex:migrate`
   - _Adicionar portas HTTPS_ -> `npm install cors`
    
