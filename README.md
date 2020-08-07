@@ -2,7 +2,7 @@
 ## NLW#02 Desenvolvendo app Proffy com node js, banco sqlite3, knex e ReactJS
 
 - Instruções Back-end/ Pasta `server`:
-  - _iniciar back end node_ -> npm init -y`
+  - _iniciar back end node_ -> `npm init -y`
   - _iniciar tsc_ -> `npx tsc --init`
   - _Adicionar typescript_ -> `npm install typescript -D || npm install ts-node-dev -D`
   - _Adicionar knex_ -> `npm install knex sqlite3`
