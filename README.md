@@ -4,12 +4,12 @@
 - Instruções Back-end/ Pasta `server`:
   - _iniciar back end node_ -> npm init -y`
   - _iniciar tsc_ -> `npx tsc --init`
-  - _Adicionar typescript -> `npm install typescript -D || npm install ts-node-dev -D`
-  - _Adicionar knex -> `npm install knex sqlite3`
-  - _Adicionar express -> `npm install express`
+  - _Adicionar typescript_ -> `npm install typescript -D || npm install ts-node-dev -D`
+  - _Adicionar knex_ -> `npm install knex sqlite3`
+  - _Adicionar express_ -> `npm install express`
   - _server start -> `npm start run`
-  - _knex start -> `npm run knex:migrate`
-  - _Adicionar portas HTTPS -> `npm install cors`
+  - _knex start_ -> `npm run knex:migrate`
+  - _Adicionar portas HTTPS_ -> `npm install cors`
    
 - Instruções Front-end/ Pasta `web`:
   - _react start_ -> `npm start`
